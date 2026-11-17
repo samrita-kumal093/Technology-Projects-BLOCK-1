@@ -12,6 +12,9 @@ images/system/computer-before.jpg
 ## Internal Layout
 Open the computer case and observe the internal components.
 Describe what you see.
+
+
+When I opened the computer case, I saw different part inside, such as the motherbroad processor, RAM, hard drive, power supply, cooling fan, and connecting wires. The motherboards conncets all the parts, while the processor handels the computer's instructions. The RAM helps the computer run programs, and the hard drive stores files and data. The power supply provides electricity, and the cooling fan keeps the computer from geeting too hot. I learned that all these parts work together to make the computer function properly.
 Insert image:
 ```
 images/system/computer-opened.jpg
