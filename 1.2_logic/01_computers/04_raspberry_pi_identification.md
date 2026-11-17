@@ -8,8 +8,8 @@ images/raspberry-pi/labelled-pi-board.jpg
 
 | Component | Function |
 |-----------|----------|
-| SoC | |
-| GPIO | |
+| SoC |Process data and run instructions, acting as the main processor of the Raspberry Pi. |
+| GPIO |Allows the Raspberry Pi to connect and communicate with electronic components such as sensors, LEDs and motors. |
 | USB | |
 | HDMI | |
 | Power | |
